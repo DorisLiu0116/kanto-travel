@@ -1,0 +1,11 @@
+{
+  "name": "关东八日旅行手册",
+  "short_name": "关东旅行",
+  "description": "2026年关东八日旅行行程手册",
+  "start_url": "/kanto-travel/",
+  "scope": "/kanto-travel/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "orientation": "portrait"
+}
